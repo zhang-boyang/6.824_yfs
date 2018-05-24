@@ -1,0 +1,33 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontSize": 13,
+    "editor.fontFamily": "Monaco",
+    "clang.executable": "/usr/bin/clang",
+    "clang.completion.enable": true,
+    "clang.cxxflags":[
+        "-std=c++11","-I /Library/Developer/CommandLineTools/usr/lib/clang/8.0.0/include"
+    ]
+
+,
+"workbench.sideBar.location": "right",
+"C_Cpp.autocomplete": "Disabled",
+"workbench.colorTheme": "Monokai",
+"[python]": {
+        
+    },
+    "workbench.statusBar.visible": true,
+
+"python.linting.pylintArgs": [
+    "--errors-only"
+],
+"[c]": {
+        
+    },
+    "[cpp]": {
+        
+    },
+    "files.associations": {
+        "sstream": "cpp",
+        "iostream": "cpp"
+    }
+}
